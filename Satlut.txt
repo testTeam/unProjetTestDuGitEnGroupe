@@ -1,4 +1,6 @@
-voila c'est juste pour un test
+la je cherche le conflit 
 
 voila un autre text
-voila j'ai ajouté du text 
+voila j'ai ajouté du text
+
+ajout d'un autre text  
